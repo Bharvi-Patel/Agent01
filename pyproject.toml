@@ -12,6 +12,7 @@ dependencies = [
     "langchain-community>=0.4.2",
     "openai>=2.52.0",
     "openai-agents>=0.19.2",
+    "playwright>=1.62.0",
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
 ]
